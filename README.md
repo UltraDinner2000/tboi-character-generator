@@ -5,6 +5,8 @@ this program based on template by catinsured, folders location and sprites also 
 program UI: <br><br>
 <img width="796" height="628" alt="image" src="https://github.com/user-attachments/assets/967e6e0f-5398-44a9-9993-69c203703131" /><br><br>
 
+to create a mod write a mod/character names and specify character parameters. write path to TBoI mods folder in "path" field or another place where you will save you character<br><br>
+
 i didn't make a easy function for automaticly changing sprites so you need did it manual
 to chagne basics sprites you need go on in mod folder/resources/gfx/characters and change sprites in "costumes". if sprite name is character name + b is sprite for tainted character.
 to change special sprites used for boss screen or transition between floors go on in mod folder/resources/gfx/ui. <br><br><br><br>
