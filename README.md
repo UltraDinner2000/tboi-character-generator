@@ -22,4 +22,8 @@ mod folder/resources/gfx/ui/boss <br> <br><br>
 mod folder/resources/gfx/ui/stage <br><br><br>
 
 initially your character is not visible in menu cause you need customize animations in mod folder/content/gfx (you can watch a tutorial for animations i'm not going to explain it here) <br><br>
-<img width="617" height="450" alt="image" src="https://github.com/user-attachments/assets/9f4c6eff-a049-40dc-9f56-d459aaffdd16" />
+<img width="617" height="450" alt="image" src="https://github.com/user-attachments/assets/9f4c6eff-a049-40dc-9f56-d459aaffdd16" /><br><br>
+
+character example: <br>
+<img width="761" height="598" alt="image" src="https://github.com/user-attachments/assets/ab4623e5-fdc2-4e3f-a50e-cd1dd718cc67" /><br>
+<img width="568" height="320" alt="0621(1)" src="https://github.com/user-attachments/assets/8779c4e7-e0e1-4eb5-b56e-d35e95bd1b4c" />
