@@ -1,4 +1,4 @@
-<img width="295" height="208" alt="image" src="https://github.com/user-attachments/assets/d2db2d70-9ab8-4edc-871d-9dca6890e025" />tboi character generator is simple program for creating your own characters without coding.
+tboi character generator is simple program for creating your own characters without coding.
 
 this program based on template by catinsured, folders location and sprites also created by catinsured.
 
